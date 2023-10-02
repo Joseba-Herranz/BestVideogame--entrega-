@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BestVideogame</string>
+    <string name="j1">Man Standing</string>
+    <string name="j2">Star Citizen</string>
+    <string name="j3">Escape from Tarkov</string>
+    <string name="j4">Baldurs Gate 3</string>
+    <string name="start">Zein da aukera oberena?</string>
+    <string name="escoger">Zein aukeratzen dezu...</string>
+    <string name="click">Ikusten da asko gustazten zaizula </string>
+    <string name="checkbox_inicio">Inkesta gustazten zaizu?</string>
+    <string name="checkbox_one">Asko gustazten zaizu!</string>
+    <string name="checkbox_two">Ez zaizu gustatzen?</string>
+</resources>

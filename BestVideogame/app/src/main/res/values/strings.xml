@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BestVideogame</string>
+    <string name="j1">Man Standing</string>
+    <string name="j2">Star Citizen</string>
+    <string name="j3">Escape from Tarkov</string>
+    <string name="j4">Baldurs Gate 3</string>
+    <string name="start">¿Cual es mejor opcion?</string>
+    <string name="escoger">A ver cual escoges...</string>
+    <string name="click">Veo que te gusta el </string>
+    <string name="checkbox_inicio">¿Te gusta la encuesta?</string>
+    <string name="checkbox_one">¡Si que te mola!</string>
+    <string name="checkbox_two">¡¿No te molan!?</string>
+</resources>
