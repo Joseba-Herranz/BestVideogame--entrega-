@@ -110,7 +110,6 @@ public class MainActivity extends AppCompatActivity {
                 switch (which) {
                     case 0:
                         setLocale("es");
-                         //change for your case
                         startActivity(i);
 
                         break;
